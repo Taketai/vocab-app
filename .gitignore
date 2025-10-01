@@ -1,0 +1,12 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Logs
+*.log
+
+# 将来ビルドする場合に備えて
+dist/
+node_modules/
